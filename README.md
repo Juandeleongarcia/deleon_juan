@@ -1,6 +1,6 @@
 # deleon_juan
 Juan de leon garcia
-
+link: https://github.com/Juandeleongarcia/deleon_juan.git 
 1) Se puede enviar un pull and request desde una cuenta a otra para poder copiar el repositorio que se ha mandado en esa cuenta y poder ver y depende de los permisos de la
     cuenta editar. Para poder hacer el PR has de enviar una solicitud a la cuenta a la que quieres enciar el trabajo, desde esa cuenta se acepta y ya tienes el repositorio
     en la cuenta.
